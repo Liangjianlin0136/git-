@@ -53,9 +53,9 @@
    git init
    ```
 
-   ![](D:\Typora_img\git_img\img_1\img-1.png)
+   ![](git&github.assets/img-1.png)
 
-   ​                                                                                         图2
+   ​                                                                                         图1
 
    
 
@@ -83,17 +83,17 @@
    git log
    ```
 
-   <img src="D:\Typora_img\git_img\img_1\img-2.png" style="zoom:67%;" />
+   <img src="git&github.assets/img-2.png" style="zoom:67%;" />
+
+   ​                                                                                             图2
+
+   <img src="git&github.assets/img-3.png" style="zoom:67%;" />
 
    ​                                                                                             图3
 
-   <img src="D:\Typora_img\git_img\img_1\img-3.png" style="zoom: 67%;" />
+   <img src="git&github.assets/img-4.png" style="zoom:67%;" />
 
    ​                                                                                             图4
-
-   <img src="D:\Typora_img\git_img\img_1\img-4.png" style="zoom:67%;" />
-
-   ​                                                                                             图5
 
 5. 总结(生成版本的步骤)
 
@@ -141,13 +141,13 @@
 
    <img src="D:\Typora_img\git_img\img_1\img-5.png" style="zoom:67%;" />
 
-   ​                                                                                           图6
+   ​                                                                                           图5
 
    
 
    <img src="D:\Typora_img\git_img\img_1\img-6.png" style="zoom:67%;" />
 
-   ​                                                                                                 图7
+   ​                                                                                                 图6
 
 2. 提示：这里的版本地址非常长，要想复制地址的话，要先选中地址，点击按键ctrl+ins复制，shift+ins粘贴即可。
 
